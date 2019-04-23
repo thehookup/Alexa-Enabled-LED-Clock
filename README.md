@@ -3,7 +3,7 @@
 
 This repository is to accompany my Alexa Enabled LED Clock Project video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1O_1gUFumQM/0.jpg)](https://www.youtube.com/watch?v=1O_1gUFumQM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EQLDNrSjHa0/0.jpg)](https://www.youtube.com/watch?v=EQLDNrSjHa0)
 
 ## Alexa Emulation Library
 
